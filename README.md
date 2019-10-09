@@ -4,7 +4,7 @@
 
 Stands for **B**usiness **P**rocess **M**odelling **N**otation is used to illustrate business processes
 
-<h1>Assignment :black_nib:</h1>
+<h1>Assignment :pencil:</h1>
 
 <img src="https://github.com/JonasManley/BPMN-Exercise/blob/master/Assignment%20text.png" alt="UML" height="auto" width="auto" style="max-width:100%;">
 
